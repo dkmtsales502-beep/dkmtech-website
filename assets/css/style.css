@@ -24,7 +24,7 @@ header .container {
 
 /* 로고 이미지 */
 header img {
-    height: 48px; /* 로고 크기 약간 키움 */
+    height: 48px;
 }
 
 /* 네비게이션 메뉴 */

@@ -9,7 +9,7 @@ body {
 header, footer {
     background: #003366;
     color: white;
-    padding: 3rem 1rem; /* ← 위아래 4rem (64px)로 늘림 */
+    padding: 3rem 1rem;
     text-align: center;
 }
 

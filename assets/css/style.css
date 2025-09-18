@@ -10,7 +10,7 @@ body {
 header, footer {
     background: #003366;
     color: white;
-    padding: 2rem 1rem; /* 위아래 여백 늘려서 헤더 높이 키움 */
+    padding: 5rem 1rem; /* 위아래 여백 늘려서 헤더 높이 키움 */
 }
 
 /* 헤더 내부 레이아웃 */
@@ -24,7 +24,7 @@ header .container {
 
 /* 로고 이미지 */
 header img {
-    height: 48px;
+    height: 36px;
 }
 
 /* 네비게이션 메뉴 */
